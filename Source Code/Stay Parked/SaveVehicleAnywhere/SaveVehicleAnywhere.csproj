@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+        <LangVersion>latest</LangVersion>
+        <Nullable>disable</Nullable>
+        <ImplicitUsings>disable</ImplicitUsings>
+
+        <AssemblyName>SaveVehicleAnywhere</AssemblyName>
+        <RootNamespace>SaveVehicleAnywhere</RootNamespace>
+
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+
+        <UseWindowsForms>true</UseWindowsForms>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="ScriptHookVDotNet3">
+            <HintPath>lib\ScriptHookVDotNet3.dll</HintPath>
+            <Private>false</Private>
+        </Reference>
+
+        <Reference Include="System.Web.Extensions" />
+    </ItemGroup>
+
+</Project>
