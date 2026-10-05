@@ -6,7 +6,7 @@ Ever parked a vehicle somewhere in GTA V and returned later only to discover tha
 
 **Stay Parked** allows players to save vehicles at their current location and automatically restore them when the game is restarted.
 
-> Park your vehicle. Leave the game. Come back. Stay Parked.
+> Park your vehicle. Leave the game. Come back and help me with  Stay Parked.
 
 ---
 
