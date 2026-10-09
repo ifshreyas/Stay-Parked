@@ -12,7 +12,7 @@ Ever parked a vehicle somewhere in GTA V and returned later only to discover tha
 
 ## Features
 
-- Save up to 50 vehicles
+- Save up to 50 vehicles ( 50 is the limit )
 - Automatically restore saved vehicles after restarting GTA V
 - Save vehicles anywhere in the game world
 - Simple save and remove interaction
